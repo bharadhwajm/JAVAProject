@@ -1,0 +1,16 @@
+input{
+    background-color: black;
+    height: 10%;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+textarea{
+    background-color: black;
+    margin: 5%;
+    color: white;
+}
